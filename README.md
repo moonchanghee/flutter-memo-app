@@ -32,3 +32,4 @@ supabase functions deploy analyze_note
 supabase login
 supabase link --project-ref </project/"link" project 뒤 링크입력 >
 
+open ios/Runner.xcworkspace
